@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.1">
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\bdd\steps\YandexDriveSteps.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\bdd\StoryRunner.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\DriverTimeouts.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\browser\Browser.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\browser\BrowserType.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\config\GlobalConfig.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\listener\CustomListener.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\report\ExtentReportAppender.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\report\ExtentReportListener.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\report\IMdcContext.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\report\Logger.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\report\LoggerLevel.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\report\TestNgLoggerListener.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\util\GenerateDataUtils.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\framework\util\LetterUtils.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\common\Account.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\common\AccountBuilder.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\common\Constants.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\common\Test.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\drive\CustomFile.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\drive\FileBuilder.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\drive\screen\DetailsPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\drive\screen\FilesPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\drive\screen\LoginPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\drive\screen\TopMenuPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\drive\screen\TrashPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\drive\service\DriveService.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\drive\service\LoginService.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\Letter.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\LetterBuilder.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\screen\DraftPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\screen\InboxPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\screen\LoginPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\screen\MainPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\screen\Page.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\screen\SentPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\screen\SuccessfulSendLetterPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\screen\TrashPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\screen\WriteLetterPage.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\service\LoginService.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\lib\mail\service\MailService.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\MyFileReader.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\runner\Runner.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\mail\CorrectLoginTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\mail\SaveAndDeleteDraftLetterTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\mail\SendFullLetterTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\mail\SendLetterWithoutRecipientTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\mail\SendLetterWithoutSubjectAndBodyTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\mail\WrongLoginTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\yandexdisk\CorrectLoginTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\yandexdisk\DownloadFileTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\yandexdisk\RemoveFileTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\yandexdisk\RemoveSeveralFilesTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\yandexdisk\RestoreFileTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\yandexdisk\UploadFileTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\java\com\epam\gomel\tests\yandexdisk\WrongLoginTest.java">
+</file>
+<file name="C:\Users\Aliaksandr_Doubeikov\workspace\hometask6\src\main\resources\log4j.properties">
+</file>
+</checkstyle>

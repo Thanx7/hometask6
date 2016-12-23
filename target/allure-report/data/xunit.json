@@ -1,0 +1,211 @@
+{
+  "time" : {
+    "start" : 1482482251674,
+    "stop" : 1482482562428,
+    "duration" : 310754
+  },
+  "testSuites" : [ {
+    "uid" : "ee4e8ac9ba287f",
+    "name" : "Tests : MailRuChromeTest",
+    "title" : "Tests : MailRuChromeTest",
+    "time" : {
+      "start" : 1482482251674,
+      "stop" : 1482482364624,
+      "duration" : 112950
+    },
+    "statistic" : {
+      "total" : 8,
+      "passed" : 8,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "a852db3f1ea4d09b",
+      "name" : "correctLoginTest",
+      "title" : "Correct login test",
+      "time" : {
+        "start" : 1482482251674,
+        "stop" : 1482482266145,
+        "duration" : 14471
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "875646deb866934e",
+      "name" : "wrongLoginTest",
+      "title" : "Wrong login test",
+      "time" : {
+        "start" : 1482482267017,
+        "stop" : 1482482275190,
+        "duration" : 8173
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "fd9f185dbf7c30a0",
+      "name" : "sendFullLetterTest",
+      "title" : "Send full letter test",
+      "time" : {
+        "start" : 1482482283401,
+        "stop" : 1482482300108,
+        "duration" : 16707
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "38abf8acf843d607",
+      "name" : "sendLetterWithoutRecipientTest",
+      "title" : "Send letter without recipient test",
+      "time" : {
+        "start" : 1482482308284,
+        "stop" : 1482482317106,
+        "duration" : 8822
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "5dcd28820ce15712",
+      "name" : "sendLetterWithoutSubjectAndBodyTest",
+      "title" : "Send letter without subject and body test",
+      "time" : {
+        "start" : 1482482325116,
+        "stop" : 1482482337144,
+        "duration" : 12028
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "30ab35c1e8e463af",
+      "name" : "saveLetterAsDraftTest",
+      "title" : "Save letter as draft test",
+      "time" : {
+        "start" : 1482482345282,
+        "stop" : 1482482354365,
+        "duration" : 9083
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "7d1f78de2a8f7bef",
+      "name" : "deleteLetterFromDraftTest",
+      "title" : "Delete letter from draft test",
+      "time" : {
+        "start" : 1482482354367,
+        "stop" : 1482482357987,
+        "duration" : 3620
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "1f6584503e116349",
+      "name" : "deleteLetterFromTrashTest",
+      "title" : "Delete letter from trash test",
+      "time" : {
+        "start" : 1482482357988,
+        "stop" : 1482482364624,
+        "duration" : 6636
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "354de64db8b0fc35",
+    "name" : "Tests : YandexDiskChromeTest",
+    "title" : "Tests : YandexDiskChromeTest",
+    "time" : {
+      "start" : 1482482365597,
+      "stop" : 1482482562428,
+      "duration" : 196831
+    },
+    "statistic" : {
+      "total" : 7,
+      "passed" : 7,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "57985d2c1cb0f73c",
+      "name" : "correctLoginTest",
+      "title" : "Correct login test",
+      "time" : {
+        "start" : 1482482365597,
+        "stop" : 1482482381049,
+        "duration" : 15452
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "a5f59329080fa4f1",
+      "name" : "wrongLoginTest",
+      "title" : "Wrong login test",
+      "time" : {
+        "start" : 1482482381827,
+        "stop" : 1482482393474,
+        "duration" : 11647
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "ec1ec3069ec999c2",
+      "name" : "uploadFileTest",
+      "title" : "Upload file test",
+      "time" : {
+        "start" : 1482482410261,
+        "stop" : 1482482417064,
+        "duration" : 6803
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c98c403999032f35",
+      "name" : "downloadFileTest",
+      "title" : "Download file test",
+      "time" : {
+        "start" : 1482482434467,
+        "stop" : 1482482436992,
+        "duration" : 2525
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "cdd893654ce4f1a0",
+      "name" : "removeFileTest",
+      "title" : "Remove file test",
+      "time" : {
+        "start" : 1482482454277,
+        "stop" : 1482482471132,
+        "duration" : 16855
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c9d2ac9630706e1",
+      "name" : "restoreFileTest",
+      "title" : "Restore file test",
+      "time" : {
+        "start" : 1482482488557,
+        "stop" : 1482482516740,
+        "duration" : 28183
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "71589f2e97de9033",
+      "name" : "removeFileTest",
+      "title" : "Remove file test",
+      "time" : {
+        "start" : 1482482534724,
+        "stop" : 1482482562428,
+        "duration" : 27704
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

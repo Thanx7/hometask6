@@ -1,0 +1,47 @@
+{
+  "uid" : "a5f59329080fa4f1",
+  "name" : "wrongLoginTest",
+  "title" : "Wrong login test",
+  "time" : {
+    "start" : 1482482381827,
+    "stop" : 1482482393474,
+    "duration" : 11647
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "354de64db8b0fc35",
+    "name" : "Tests : YandexDiskChromeTest",
+    "title" : "Tests : YandexDiskChromeTest"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "EPBYGOMW0318"
+  }, {
+    "name" : "thread",
+    "value" : "212@EPBYGOMW0318.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Tests : YandexDiskChromeTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Tests : YandexDiskChromeTest"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

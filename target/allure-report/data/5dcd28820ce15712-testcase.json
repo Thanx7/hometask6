@@ -1,0 +1,47 @@
+{
+  "uid" : "5dcd28820ce15712",
+  "name" : "sendLetterWithoutSubjectAndBodyTest",
+  "title" : "Send letter without subject and body test",
+  "time" : {
+    "start" : 1482482325116,
+    "stop" : 1482482337144,
+    "duration" : 12028
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "ee4e8ac9ba287f",
+    "name" : "Tests : MailRuChromeTest",
+    "title" : "Tests : MailRuChromeTest"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "EPBYGOMW0318"
+  }, {
+    "name" : "thread",
+    "value" : "212@EPBYGOMW0318.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Tests : MailRuChromeTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Tests : MailRuChromeTest"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

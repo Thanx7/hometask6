@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1482482251658" stop="1482482365466" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Tests : MailRuChromeTest</name>
+    <title>Tests : MailRuChromeTest</title>
+    <test-cases>
+        <test-case start="1482482251674" stop="1482482266145" status="passed">
+            <name>correctLoginTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482267017" stop="1482482275190" status="passed">
+            <name>wrongLoginTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482283401" stop="1482482300108" status="passed">
+            <name>sendFullLetterTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482308284" stop="1482482317106" status="passed">
+            <name>sendLetterWithoutRecipientTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482325116" stop="1482482337144" status="passed">
+            <name>sendLetterWithoutSubjectAndBodyTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482345282" stop="1482482354365" status="passed">
+            <name>saveLetterAsDraftTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482354367" stop="1482482357987" status="passed">
+            <name>deleteLetterFromDraftTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482357988" stop="1482482364624" status="passed">
+            <name>deleteLetterFromTrashTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1482482365596" stop="1482482563254" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Tests : YandexDiskChromeTest</name>
+    <title>Tests : YandexDiskChromeTest</title>
+    <test-cases>
+        <test-case start="1482482365597" stop="1482482381049" status="passed">
+            <name>correctLoginTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482381827" stop="1482482393474" status="passed">
+            <name>wrongLoginTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482410261" stop="1482482417064" status="passed">
+            <name>uploadFileTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482434467" stop="1482482436992" status="passed">
+            <name>downloadFileTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482454277" stop="1482482471132" status="passed">
+            <name>removeFileTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482488557" stop="1482482516740" status="passed">
+            <name>restoreFileTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1482482534724" stop="1482482562428" status="passed">
+            <name>removeFileTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EPBYGOMW0318"/>
+                <label name="thread" value="212@EPBYGOMW0318.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
